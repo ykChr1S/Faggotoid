@@ -1,0 +1,18 @@
+{
+  "name": "faggotoid",
+  "version": "1.3.1",
+  "description": "Bot for yk_Chr1S",
+  "main": "main.js",
+  "author": "yk_Chr1S",
+  "dependencies": {
+    "discord.io": "^2.5.2",
+    "discord.js": "^11.2.1",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "GPL-3.0+"
+}
